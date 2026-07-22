@@ -26,23 +26,10 @@ Para asociaciones, verificar según corresponda:
 
 Para consorcios, verificar según corresponda:
 
-\- representante común;
-
-\- documento de designación suscrito por los integrantes;
-
-\- vigencia del acuerdo de representación;
-
-\- vigencia del consorcio.
-
-
-
-Si el tipo de entidad no coincide con los definidos:
-
-\- identificar en el documento constitutivo el órgano de representación;
-
-\- determinar qué cargo tiene facultades de representación legal;
-
-\- validar si existe designación o nombramiento vigente para ese cargo.
+-validar procurador común;
+ -creación del consorcio
+- vigencia, plazo, duración del consorcio.
+-calcular creación del consorcio y su duración un plazo para determinar el tiempo de vigencia
 
 
 
